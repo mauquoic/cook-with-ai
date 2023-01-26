@@ -92,3 +92,8 @@ season.
 2) If the icing is too thick, add more milk, 1 tablespoon at a time, until the desired consistency is achieved.
 3) Use a spoon or a piping bag to decorate the cookies with the icing. You can also add food coloring to the icing to
    create different colors, if desired.
+
+<figure style="pointer-events: none;">
+<img src="./media/gingerbread.png" alt="Gingerbread" />
+<figcaption>You can go nuts with the presentation afterwards, but don't forget to eat them!</figcaption>
+</figure>
