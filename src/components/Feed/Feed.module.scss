@@ -2,6 +2,22 @@
 @import "../../assets/scss/mixins";
 
 .feed {
+  .container {
+    position: relative;
+  }
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .picture {
+    border-radius: 20%;
+  }
+
   .item {
     @include margin-bottom(1.25);
 

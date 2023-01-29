@@ -81,7 +81,6 @@ export default {
                         title
                         slug
                         description
-                        socialImage
                       }
                     }
                   }
