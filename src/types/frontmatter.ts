@@ -5,6 +5,8 @@ interface Frontmatter {
   category: string;
   template: string;
   description?: string;
+  prepTime?: string;
+  cookTime?: string;
   tags?: Array<string>;
   socialImage?: {
     publicURL: string;

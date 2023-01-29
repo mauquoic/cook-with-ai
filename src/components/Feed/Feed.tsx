@@ -46,6 +46,9 @@ const Feed: React.FC<Props> = ({ edges }: Props) => (
           <p className={styles.description}>
             {edge.node.frontmatter.description}
           </p>
+          <p className={styles.times}>
+            Preparation: {edge.node.frontmatter.prepTime} | Cooking: {edge.node.frontmatter.cookTime}
+          </p>
           <Link
             className={styles.more}
             to={edge.node.frontmatter?.slug || edge.node.fields.slug}

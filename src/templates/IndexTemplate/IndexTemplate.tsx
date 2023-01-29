@@ -60,6 +60,8 @@ export const query = graphql`
             title
             date
             slug
+            prepTime
+            cookTime
             socialImage {
               publicURL
             }

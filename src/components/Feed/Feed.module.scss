@@ -48,6 +48,12 @@
       @include margin-bottom(0.75);
     }
 
+    .times {
+      color: var(--color-typographic-secondary-font);
+      font-size: $typographic-small-font-size;
+      @include margin-bottom(0.75);
+    }
+
     .meta {
       .time {
         color: var(--color-typographic-base-font);

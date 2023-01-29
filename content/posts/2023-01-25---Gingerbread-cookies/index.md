@@ -7,6 +7,8 @@ slug: "/posts/gingerbread-cookies"
 category: "Cookies"
 description: "Indulge in the festive flavors of gingerbread with these delicious cookies. Perfect for a fun activity with the kids or to share with friends and family during the holiday season."
 socialImage: "./media/gingerbread.png"
+prepTime: 15 minutes
+cookTime: 10 minutes
 tags:
   - "Dessert"
   - "Cookies"
