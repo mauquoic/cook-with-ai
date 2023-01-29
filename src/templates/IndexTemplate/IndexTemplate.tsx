@@ -62,6 +62,7 @@ export const query = graphql`
             slug
             prepTime
             cookTime
+            serves
             socialImage {
               publicURL
             }

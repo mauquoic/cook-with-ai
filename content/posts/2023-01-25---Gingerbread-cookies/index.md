@@ -9,6 +9,7 @@ description: "Indulge in the festive flavors of gingerbread with these delicious
 socialImage: "./media/gingerbread.png"
 prepTime: 15 minutes
 cookTime: 10 minutes
+serves: Many
 tags:
   - "Dessert"
   - "Cookies"

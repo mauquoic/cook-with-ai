@@ -47,7 +47,7 @@ const Feed: React.FC<Props> = ({ edges }: Props) => (
             {edge.node.frontmatter.description}
           </p>
           <p className={styles.times}>
-            Preparation: {edge.node.frontmatter.prepTime} | Cooking: {edge.node.frontmatter.cookTime}
+            Preparation: {edge.node.frontmatter.prepTime} | Cooking: {edge.node.frontmatter.cookTime} | Serves: {edge.node.frontmatter.serves}
           </p>
           <Link
             className={styles.more}

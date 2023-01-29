@@ -7,6 +7,7 @@ interface Frontmatter {
   description?: string;
   prepTime?: string;
   cookTime?: string;
+  serves?: string;
   tags?: Array<string>;
   socialImage?: {
     publicURL: string;
